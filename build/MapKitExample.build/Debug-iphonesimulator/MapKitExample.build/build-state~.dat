@@ -1,0 +1,313 @@
+TMapKitExample
+v7
+r0
+t299605182.858677
+cCheck dependencies
+cProcessInfoPlistFile /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/Info.plist MapKitExample-Info.plist
+cCompileXIB /Users/cwiles/Desktop/MapKitExample/MainWindow.xib
+cCompileXIB /Users/cwiles/Desktop/MapKitExample/MapKitExampleViewController.xib
+cProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch.gch MapKitExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/MapKitExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleAppDelegate.o /Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleViewController.o /Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/Annotation.o /Users/cwiles/Desktop/MapKitExample/Classes/Annotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample normal i386
+cGenerateDSYMFile /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app.dSYM /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample
+cTouch /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C0D9A6B0000000000000132
+t1275959915
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BFF44C00000000000068F90
+t1275020480
+s429968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BFF44B600000000000001D0
+t1275020470
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/cwiles/Desktop/MapKitExample/Classes/Annotation.h
+c000000004BFBF03A000000000000028E
+t1274802234
+s654
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/cwiles/Desktop/MapKitExample/Classes/Annotation.m
+c000000004BFBF0540000000000000265
+t1274802260
+s613
+i"Annotation.h"
+
+N/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleAppDelegate.h
+c000000004C2B62D900000000000001FA
+t1277911769
+s506
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleAppDelegate.m
+c000000004C2B62D90000000000000AA0
+t1277911769
+s2720
+i"MapKitExampleAppDelegate.h"
+i"MapKitExampleViewController.h"
+
+N/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.h
+c000000004C2B64DE00000000000002AB
+t1277912286
+s683
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+i"Annotation.h"
+
+N/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m
+c000000004C2B64C90000000000000C00
+t1277912265
+s3072
+i"MapKitExampleViewController.h"
+
+N/Users/cwiles/Desktop/MapKitExample/MainWindow.xib
+c000000004C2B62D90000000000004E71
+t1277911769
+s20081
+
+N/Users/cwiles/Desktop/MapKitExample/MapKitExampleViewController.xib
+c000000004C2B62D90000000000001A5D
+t1277911769
+s6749
+
+N/Users/cwiles/Desktop/MapKitExample/MapKitExample_Prefix.pch
+c000000004C2B62D900000000000000C3
+t1277911769
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app
+t1277912382
+s238
+
+N/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app.dSYM
+t1277912382
+s102
+
+N/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/Info.plist
+t1277912379
+s615
+
+N/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MainWindow.nib
+t1277912380
+s1135
+
+N/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample
+t1277912382
+s24724
+
+N/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExampleViewController.nib
+t1277912380
+s795
+
+N/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/PkgInfo
+t1277912379
+s8
+
+N/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/Annotation.o
+t1277912381
+s13680
+
+N/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExample.LinkFileList
+c000000004C2B653B000000000000023D
+t1277912379
+s573
+
+N/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleAppDelegate.o
+t1277912381
+s49388
+
+N/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleViewController.o
+t1277912381
+s47956
+
+N/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/main.o
+t1277912381
+s6296
+
+N/Users/cwiles/Desktop/MapKitExample/main.m
+c000000004C2B62D90000000000000166
+t1277911769
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch.gch
+t1277912381
+s15232016
+
+NMapKitExample-Info.plist
+c000000004C2B62D9000000000000038D
+t1277911769
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299605179#299605179#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/Annotation.o /Users/cwiles/Desktop/MapKitExample/Classes/Annotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299605181.807695
+e299605181.891567
+r1
+xCompileC
+xbuild/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/Annotation.o
+x/Users/cwiles/Desktop/MapKitExample/Classes/Annotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/cwiles/Desktop/MapKitExample/Classes/Annotation.m299605181#299605181#0(0"0(0#0#56"/Users/cwiles/Desktop/MapKitExample/Classes/Annotation.m8607294816#2008"    cd /Users/cwiles/Desktop/MapKitExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-generated-files.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-own-target-headers.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-all-target-headers.hmap -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-project-headers.hmap -F/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources/i386 -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch -c /Users/cwiles/Desktop/MapKitExample/Classes/Annotation.m -o /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/Annotation.o0#
+
+CCompileC build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleAppDelegate.o /Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299605181.611458
+e299605181.807594
+r1
+xCompileC
+xbuild/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleAppDelegate.o
+x/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleAppDelegate.m299605181#299605181#0(0"0(0#0#70"/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleAppDelegate.m8609083680#2036"    cd /Users/cwiles/Desktop/MapKitExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-generated-files.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-own-target-headers.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-all-target-headers.hmap -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-project-headers.hmap -F/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources/i386 -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch -c /Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleAppDelegate.m -o /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleAppDelegate.o0#
+
+CCompileC build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleViewController.o /Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299605181.782283
+e299605181.896554
+r1
+xCompileC
+xbuild/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleViewController.o
+x/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m:116: warning: incomplete implementation of class 'MapKitExampleViewController'
+o/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m:116: warning: method definition for '-setCurrentLocation:' not found
+lSLF07#2@81"Compile /Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m299605181#299605181#0(296"/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m:116: warning: incomplete implementation of class 'MapKitExampleViewController'/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m:116: warning: method definition for '-setCurrentLocation:' not found2(22@64"Incomplete implementation of class 'MapKitExampleViewController'299605181#0#153#0(6@73"/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m299605065#116#0#116#0#38"incomplete implementation of class '*'0(22@54"Method definition for '-setCurrentLocation:' not found299605181#153#143#0(6@73"/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m299605065#116#0#116#0#35"method definition for '*' not found0(0#0#73"/Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m8609544480#2042"    cd /Users/cwiles/Desktop/MapKitExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-generated-files.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-own-target-headers.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-all-target-headers.hmap -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-project-headers.hmap -F/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources/i386 -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch -c /Users/cwiles/Desktop/MapKitExample/Classes/MapKitExampleViewController.m -o /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExampleViewController.o0#
+
+CCompileC build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/MapKitExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299605181.610458
+e299605181.782182
+r1
+xCompileC
+xbuild/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/main.o
+x/Users/cwiles/Desktop/MapKitExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/cwiles/Desktop/MapKitExample/main.m299605181#299605181#0(0"0(0#0#42"/Users/cwiles/Desktop/MapKitExample/main.m8607313152#1988"    cd /Users/cwiles/Desktop/MapKitExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-generated-files.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-own-target-headers.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-all-target-headers.hmap -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-project-headers.hmap -F/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources/i386 -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch -c /Users/cwiles/Desktop/MapKitExample/main.m -o /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/cwiles/Desktop/MapKitExample/MainWindow.xib
+s299605179.877030
+e299605180.409136
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/MapKitExample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib299605179#299605180#0(0"0(0#0#50"/Users/cwiles/Desktop/MapKitExample/MainWindow.xib8604558560#567"    cd /Users/cwiles/Desktop/MapKitExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MainWindow.nib /Users/cwiles/Desktop/MapKitExample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/cwiles/Desktop/MapKitExample/MapKitExampleViewController.xib
+s299605179.897988
+e299605180.409287
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/MapKitExample/MapKitExampleViewController.xib
+lSLF07#2@42"CompileXIB MapKitExampleViewController.xib299605179#299605180#0(0"0(0#0#67"/Users/cwiles/Desktop/MapKitExample/MapKitExampleViewController.xib8606360576#601"    cd /Users/cwiles/Desktop/MapKitExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExampleViewController.nib /Users/cwiles/Desktop/MapKitExample/MapKitExampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app.dSYM /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample
+s299605182.753032
+e299605182.827362
+r1
+xGenerateDSYMFile
+x/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app.dSYM
+x/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/MapKitExample.app.dSYM build/Debug-iphonesimulator/MapKitExample.app/MapKitExample299605182#299605182#0(0"0(0#0#95"/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample8611938976#392"    cd /Users/cwiles/Desktop/MapKitExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample -o /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app.dSYM0#
+
+CLd /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample normal i386
+s299605181.896645
+e299605182.752927
+r1
+xLd
+x/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample
+xnormal
+xi386
+lSLF07#2@100"Link /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample299605181#299605182#0(0"0(0#0#0"8602580000#957"    cd /Users/cwiles/Desktop/MapKitExample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator -F/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator -filelist /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/Objects-normal/i386/MapKitExample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/MapKitExample0#
+
+CProcessInfoPlistFile /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/Info.plist MapKitExample-Info.plist
+s299605179.810039
+e299605179.876934
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/Info.plist
+xMapKitExample-Info.plist
+lSLF07#2@32"Process MapKitExample-Info.plist299605179#299605179#0(0"0(0#0#60"/Users/cwiles/Desktop/MapKitExample/MapKitExample-Info.plist32370056120631408#488"    cd /Users/cwiles/Desktop/MapKitExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapKitExample-Info.plist -genpkginfo /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app/Info.plist0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch.gch MapKitExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299605180.409423
+e299605181.610310
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch.gch
+xMapKitExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile MapKitExample_Prefix.pch299605180#299605181#0(0"0(0#0#60"/Users/cwiles/Desktop/MapKitExample/MapKitExample_Prefix.pch8608878912#1877"    cd /Users/cwiles/Desktop/MapKitExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-generated-files.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-own-target-headers.hmap -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-all-target-headers.hmap -iquote /Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/MapKitExample-project-headers.hmap -F/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources/i386 -I/Users/cwiles/Desktop/MapKitExample/build/MapKitExample.build/Debug-iphonesimulator/MapKitExample.build/DerivedSources -c /Users/cwiles/Desktop/MapKitExample/MapKitExample_Prefix.pch -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKitExample_Prefix-gypktnkvwdjyyufgarugyuonckvp/MapKitExample_Prefix.pch.gch0#
+
+CTouch /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app
+s299605182.827455
+e299605182.858617
+r1
+xTouch
+x/Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app
+lSLF07#2@87"Touch /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app299605182#299605182#0(0"0(0#0#0"8611741376#278"    cd /Users/cwiles/Desktop/MapKitExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cwiles/Desktop/MapKitExample/build/Debug-iphonesimulator/MapKitExample.app0#
+
